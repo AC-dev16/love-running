@@ -128,16 +128,16 @@ main {
     text-align: center;
 }
 
-#benefits-physical div, #benefits-mental div {
+#benefits-physical > div, #benefits-mental > div {
     margin-bottom: 20px;
     line-height:20px;
 }
 
-#benefits-physical p, #benefits-mental p {
+#benefits p {
     padding: 0 20px;
 }
 
-#benefits-physical hr, #benefits-mental hr {
+hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
